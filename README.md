@@ -109,13 +109,13 @@ Estou cursando Sistemas de Informação, na FAI - CENTRO DE ENSINO SUPERIOR.
     align="left" 
     alt="git-status" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=richardpedroso&show_icons=true&theme=merko&include_all_commits=true&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/?username=richardpedroso&show_icons=true&theme=merko&include_all_commits=true&layout=compact" 
 />
 <img 
     align="left" 
     alt="git-status" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardpedroso&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardpedroso&theme=merko&layout=compact&custom_title=Tecnologias" 
 />
 
 
