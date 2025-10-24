@@ -2,7 +2,7 @@
 
 Me chamo Richard Pedroso de Souza Filho, tenho 20 anos e sou natural de Santa Rita do Sapucapí. 
 <br>
-Estou cursando Sistemas de Informação, na FAI - CENTRO DE ENSINO SUPERIOR.
+Estou cursando Sistemas de Informação, na FAI - CENTRO DE ENSINO SUPERIOR em Gestão, Tecnologia e Educação.
 
 <p align="left">
     <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BViaKnmNERjuGpUxdzoCy%2BQ%3D%3D">
