@@ -1,6 +1,6 @@
 # Desenvolvedor Full Stack 
 
-Me chamo Richard Pedroso de Souza Filho, tenho 20 anos e sou natural de Santa Rita do Sapucapí. 
+Me chamo Richard Pedroso de Souza Filho, tenho 21 anos e sou natural de Santa Rita do Sapucapí. 
 <br>
 Estou cursando Sistemas de Informação, na FAI - CENTRO DE ENSINO SUPERIOR em Gestão, Tecnologia e Educação.
 
