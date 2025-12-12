@@ -1,4 +1,4 @@
-# Desenvolvedor Back-End
+# Desenvolvedor Full Stack 
 
 Me chamo Richard Pedroso de Souza Filho, tenho 20 anos e sou natural de Santa Rita do Sapucapí. 
 <br>
