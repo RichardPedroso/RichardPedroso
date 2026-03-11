@@ -103,6 +103,13 @@ Estou cursando Sistemas de Informação, na FAI - CENTRO DE ENSINO SUPERIOR em G
 
 <br/>
 
+</div>
+<div align="center">
+  <a href="https://github.com/RichardPedroso">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RichardPedroso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPedroso&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 
 
