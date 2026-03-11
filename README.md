@@ -101,7 +101,9 @@ Estou cursando Sistemas de Informação, na FAI - CENTRO DE ENSINO SUPERIOR em G
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
+<br>
+<br>
+<br>
 
 </div>
 <div align="center">
