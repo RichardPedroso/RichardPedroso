@@ -37,6 +37,6 @@ Sou estudante de **Sistemas de Informação** na FAI - Centro de Ensino Superior
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardPedroso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardPedroso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPedroso&layout=compact&langs_count=7&theme=dark"/>
 </div>
