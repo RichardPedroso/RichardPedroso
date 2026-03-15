@@ -1,5 +1,5 @@
 # Richard Pedroso de Souza Filho
-### Desenvolvedor Back-End | Java | Spring Boot | Python
+### Desenvolvedor | Java | Spring Boot | Python
 
 Sou estudante de **Sistemas de Informação** na FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação. Atualmente, foco no desenvolvimento de **APIs RESTful**, arquitetura de **Microservices** e soluções escaláveis utilizando **Java** e **Python**.
 
