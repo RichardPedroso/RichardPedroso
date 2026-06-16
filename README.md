@@ -1,7 +1,20 @@
-# Richard Pedroso de Souza Filho
-### Desenvolvedor | Java | Spring Boot | Python
+# Olá, eu sou o Richard Pedroso de Souza Filho! 👋
 
-Sou estudante de **Sistemas de Informação** na FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação. Atualmente, foco no desenvolvimento de **APIs RESTful**, arquitetura de **Microservices** e soluções escaláveis utilizando **Java** e **Python**.
+Sou estudante de Sistemas de Informação na **FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação**. Atualmente, meu foco está na engenharia de software e no desenvolvimento Back-End e Fullstack.
+
+### 🚀 O que venho desenvolvendo:
+* 🛠️ **APIs RESTful & Microservices:** Construção de arquiteturas modulares, limpas e escaláveis.
+* ☕ **Ecossistema Java:** Desenvolvimento robusto utilizando Java 21 e Spring Boot.
+* 🐍 **Ecossistema Python:** Criação de soluções inteligentes e automações eficientes.
+* 🌐 **Aplicações Web:** Integração ágil entre o Back-End e interfaces modernas (Angular / Node.js).
+
+### 🏆 Conquistas Recentes:
+* **1º Lugar na FAITEC 2023** – Desenvolvimento de Game Educativo voltado para a Saúde (Python/Pygame).
+* **2º Lugar na FAITEC 2024** – Plataforma PetMatch para Adoção de Animais (Java/JavaFX).
+
+---
+
+📬 **Vamos nos conectar?** [LinkedIn](SEU_LINK_DO_LINKEDIN) | [E-mail](seu.email@exemplo.com)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/RichardPedroso">
@@ -37,8 +50,6 @@ Sou estudante de **Sistemas de Informação** na FAI - Centro de Ensino Superior
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardPedroso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPedroso&layout=compact&langs_count=7&theme=dark"/>
 </div>
